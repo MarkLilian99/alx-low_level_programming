@@ -3,7 +3,7 @@
 /**
 * print_diagonal - prints a diagonal line with new line at the end
 * @n: int from main
-* AUTHOR: CHINWEIKE OKWUDUCHE
+* AUTHOR: MARK LILIAN
 * Return: void.
 */
 
