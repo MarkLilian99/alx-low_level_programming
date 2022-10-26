@@ -2,7 +2,7 @@
 
 /**
 * print_numbers - given sets of numbers
-* Authour: Chinweike Okwuduche
+* Authour: Mark Lilian
 * Return: void - empty
 */
 
